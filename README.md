@@ -8,4 +8,4 @@ Professora: Karen Santos
 
 Data: 21/06/2022
 
-HTML das aulas para aprender os conceitos e projeto final na pasta PROJETO FLEX.
+Projeto final de website para agência de turismo aplicando conceitos de flexbox.
